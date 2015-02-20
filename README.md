@@ -1,7 +1,8 @@
 #Reaction Commerce
-A commerce platform developed with Meteor, Node.js, MongoDB, CoffeeScript following a reactive design pattern that puts usability and conversions first.
+A commerce platform developed with Meteor, Node.js, MongoDB, CoffeeScript with a reactive,real-time design that puts usability and conversions first.
 
 ##Installation
+Node.js + NPM is required. Install from http://nodejs.org/
 
 To install Meteor + Reaction, and start the latest release:
 
@@ -10,6 +11,7 @@ curl -L http://getrxn.io/installreaction | /bin/sh
 ```
 
 This terminal command executes [this file](https://github.com/reactioncommerce/reaction/blob/development/bin/install). Additional installation options are in the [developer documentation](https://github.com/reactioncommerce/reaction-core/blob/development/docs/installation.md).
+
 
 ##Demonstration
 
@@ -21,7 +23,7 @@ Test shops help us gather feedback for Reaction development, as well as testing 
 
 
 ##Status
-**Current status: Alpha Preview v0.3.0**
+**Current status: Alpha Preview v0.5.0**
 
 **Functional but unstable, with HEAVY ongoing development!**
 
@@ -34,7 +36,9 @@ As with all development, some items are ahead of schedule, and some are not. Her
 
 For a high level review our roadmap, take a look at the vision page [Reaction Vision](http://reactioncommerce.com/vision)
 
-For grouping of development channels by feature see project milestones: https://github.com/reactioncommerce/reaction/milestones *note: progress indicators highly volatile indicators at the moment*
+For grouping of development channels by feature see project milestones: https://github.com/reactioncommerce/reaction/milestones
+
+*note: progress indicators highly volatile indicators at the moment*
 
 And finally for the kanban-esque, hardcore real time progress view, take a look our [waffle board](https://waffle.io/reactioncommerce/reaction)
 
@@ -69,9 +73,6 @@ Our preferred method for Reaction feedback it that you use GitHub issues on the 
 Join us on our Gitter chat room, discuss, get help.
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/reactioncommerce/reaction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-###Google Group
-Google group at https://groups.google.com/forum/#!forum/reaction-talk
 
 #Developer Documentation
 
